@@ -10,3 +10,5 @@ Yesterday on the plane to Pheonix I fleshed out some more thoughts on this blog 
 ## Another Update
 
 OK so I totally forgot deep tissue massages while making my list of best bang-for-buck purchases! And I haven't really considered how expanding to services (over goods alone) changes the ethos of what I've decided so far ... will take a look over and report back. Otherwise also realized today I should make the family tree on github so now `redacted-family-tree` exists woohoo!
+
+Ok testing one more whitespace change here to confirm main -> master switch was successful
